@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baltoy (Pokemon)
+* source:	https://sketchfab.com/3d-models/baltoy-pokemon-fbc670f14896453ab2f9ce264be18714
+* author:	Charlotte (https://sketchfab.com/charlottetan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baltoy (Pokemon)" (https://sketchfab.com/3d-models/baltoy-pokemon-fbc670f14896453ab2f9ce264be18714) by Charlotte (https://sketchfab.com/charlottetan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
