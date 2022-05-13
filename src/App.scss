@@ -28,7 +28,7 @@ body,
   left: 0;
   width: 100vw;
   height: 100vh;
-  overflow: auto;
+  overflow-x: hidden;
 }
 
 .container {
@@ -55,31 +55,6 @@ header {
       letter-spacing: 2px;
       color: #fff;
     }
-    nav {
-      ul {
-        margin: 0;
-        padding: 0;
-        display: flex;
-        li {
-          list-style: none;
-          margin: 0 60px;
-          &.btn {
-            a {
-              color: #fff;
-              font-weight: 600;
-              background: #23232a;
-              padding: 16px 24px;
-              border-radius: 10px;
-            }
-          }
-          a {
-            text-transform: capitalize;
-            text-decoration: none;
-            color: #fff;
-          }
-        }
-      }
-    }
   }
 }
 
@@ -89,11 +64,8 @@ header {
   width: 100%;
   margin: 0 auto;
   color: #fff;
-  span {
-    display: block;
-  }
   @media (max-width: 1440px) {
-    font-size: 6rem;
+    font-size: 4rem;
   }
 }
 
